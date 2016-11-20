@@ -13,8 +13,14 @@ strong {
   color: #69707a;
 }
 
+.jumbotron .display-1 {
+  font-size: 40px;
+}
+
 .navbar {
   background: #323232;
+  border: none;
+  margin-bottom: 0px;
 }
 
 .btn {
@@ -24,6 +30,7 @@ strong {
 .btn-primary {
   background: CF000F;
   border-color: white;
+  border-width: 0px;
 }
 
 .btn-primary:hover,
@@ -32,10 +39,12 @@ strong {
 .btn-primary:active:focus {
   background: #323232;
   border-color: #323232;
+  border-width: 0px;
 }
 
 .card {
   border-color: CF000F;
+  border-width: 0px;
 }
 
 .card-title {
@@ -57,3 +66,12 @@ strong {
   background-image: url("https://newevolutiondesigns.com/images/freebies/cool-wallpaper-6.jpg");
   background-size: cover;
   color: D24D57;
+  padding-bottom: 500px;
+  margin-bottom: 0px;
+}
+
+.zoomhover {
+  padding: 1rem 1.75rem;
+  font-size: 1.5rem;
+  border-radius: .55rem;
+}
