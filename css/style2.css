@@ -1,0 +1,89 @@
+html {
+  background-color: #95a5a6;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #e16879;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #323232;
+  border-color: #323232;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #323232;
+  border-color: #323232;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: CF000F;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("http://images.firstcovers.com/covers/flash/s/swagg-1314756.jpg");
+  background-repeat: repeat-1;
+  height: 250px;
+}
+.profile-pic {
+  margin-top: 90px;
+}
+
+.card-footer {
+  padding-top: 30px;
+}
+
+.emoji {
+  background: 3498DB;
+  border-color: 3498DB;
+  color: 3498DB;
+  cursor: pointer;
+
+}
+
+.emoji:hover {
+  background: white;
+  color: 22313F;
+  }
+
+  .remoji {
+    background: CF000F;
+    border-color: CF000F;
+    color: CF000F;
+    cursor: pointer;
+  }
+
+  .remoji:hover {
+    background: 96281B;
+    color: 96281B;
+  }
+
+.textcol {
+  color: 95A5A6;
+}
